@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamdan0786143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamdan0786143" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamdaan ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdaan ahmad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamdaan-ahmad-34a4a0203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdaan ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/hamdaan_ahmad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamdaan_ahmad_" height="30" width="40" /></a>
 <a href="https://dribbble.com/hamdaan ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hamdaan ahmad" height="30" width="40" /></a>
 <a href="https://www.behance.net/hamdaan ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamdaan ahmad" height="30" width="40" /></a>

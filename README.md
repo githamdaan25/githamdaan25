@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/7470211/131531487-65382c5d-0570-4855-bb35-1d7ce963cf4e.gif)
+![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*b_hKwhqy_xxDIWyq0P92QA.gif)
 <h1 align="center">Hi 👋, I'm Hamdaan Ahmad</h1>
 <h3 align="center">Motivated student with formal knowledge gained through practical experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://art.pixilart.com/90b9672b9c20eed.gif">

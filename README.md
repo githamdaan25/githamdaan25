@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hamdaan Ahmad</h1>
 <h3 align="center">Motivated student with formal knowledge gained through practical experience.</h3>
-<img align="right" alt="Coding" width="400" src="https://art.pixilart.com/90b9672b9c20eed.gif">
 
 
 
